@@ -1,0 +1,64 @@
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\bin\Debug\IceCreamParlor.exe
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\bin\Debug\IceCreamParlor.pdb
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\bin\Debug\IceCreamParlor.xml
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Form1.resources
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Login.resources
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Resources.resources
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.vbproj.GenerateResource.Cache
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.exe
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.xml
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.pdb
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Main.resources
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Stock.resources
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Billing.resources
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.exe
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.xml
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.pdb
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\bin\Debug\IceCreamParlor.exe
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\bin\Debug\IceCreamParlor.pdb
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\bin\Debug\IceCreamParlor.xml
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Billing.resources
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Form1.resources
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Login.resources
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Main.resources
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Resources.resources
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Stock.resources
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.vbproj.GenerateResource.Cache
+C:\Users\ss\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.BillReport.resources
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.exe
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.xml
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.pdb
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\bin\Debug\IceCreamParlor.exe
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\bin\Debug\IceCreamParlor.pdb
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\bin\Debug\IceCreamParlor.xml
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Billing.resources
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.BillReport.resources
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Form1.resources
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Login.resources
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Main.resources
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Resources.resources
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Stock.resources
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.vbproj.GenerateResource.Cache
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Transactions.resources
+C:\Users\ss\Desktop\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.NewItem.resources
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.BillReport.resources
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.NewItem.resources
+C:\Users\Sachin\Documents\Visual Studio 2008\Projects\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Transactions.resources
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.vbprojAssemblyReference.cache
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Billing.resources
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.BillReport.resources
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Form1.resources
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Login.resources
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Main.resources
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Resources.resources
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.NewItem.resources
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Stock.resources
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.Transactions.resources
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.vbproj.GenerateResource.cache
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.vbproj.CoreCompileInputs.cache
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.exe
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.xml
+D:\SOUMIL\IceCreamParlor\IceCreamParlor\obj\Debug\IceCreamParlor.pdb
